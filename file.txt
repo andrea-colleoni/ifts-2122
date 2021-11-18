@@ -1,2 +1,2 @@
 ciao
-del testo...
+del testo
