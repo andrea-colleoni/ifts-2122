@@ -1,0 +1,1 @@
+docker run -d -p 3306:3306 -e MYSQL_ROOT_PASSWORD=password -v C:\Users\andre\Desktop\Temp\Corsi\ITSAR\IFTS-2122\mod01\DatiMysql:/var/lib/mysql mysql\
